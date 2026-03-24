@@ -1,0 +1,6 @@
+{
+  "Name": "Day_5_RPA",
+  "ProjectType": "Process",
+  "Description": "Day 5 Tasks",
+  "MainFile": "Main.xaml"
+}
